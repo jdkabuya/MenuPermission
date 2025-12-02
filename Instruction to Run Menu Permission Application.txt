@@ -1,0 +1,11 @@
+Instruction to Run Menu Permission Application
+
+A.	Run from Open developer command prompt
+1.	Open developer command prompt (from Visual studio, tool menu, Command line.
+2.	Navigate to the folder that has exe
+	•	D:\justin\MenuPermissions\MenuPermissions\bin\Debug\net9.0
+
+3.	Type: MenuPermissions.exe users.txt menus.txt > output.json
+	•	Note: Please delete Output.json if it exists in the folder
+
+
